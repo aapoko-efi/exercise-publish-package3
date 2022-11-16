@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-    s.name = %q{sample_gem}
+    s.name = %q{exercise-publish-package3}
     s.version = "0.1.0"
     s.licenses = ["MIT"]
     s.authors = "aapoko-efi"
     s.date = %q{2022-11-16}
-    s.summary = %q{sample_gem is the best}
+    s.summary = %q{Hello world!}
     s.files = [
       "lib/sample_gem.rb"
     ]
