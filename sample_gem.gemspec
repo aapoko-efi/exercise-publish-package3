@@ -8,4 +8,5 @@ Gem::Specification.new do |s|
       "lib/sample_gem.rb"
     ]
     s.require_paths = ["lib"]
+    s.homepage = "https://github.com/aapoko-efi/exercise-publish-package3"
   end
