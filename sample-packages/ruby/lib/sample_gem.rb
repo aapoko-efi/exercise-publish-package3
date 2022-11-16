@@ -1,7 +1,7 @@
 module SampleGem
     class AClass
-      def self.sample?
-        puts "Some Sample Gem"
+      def self.hi
+        puts "Hello world!"
       end
     end
   end
